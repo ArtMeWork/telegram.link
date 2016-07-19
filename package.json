@@ -11,16 +11,16 @@
   "homepage": "http://telegram.link",
   "repository": {
     "type": "git",
-    "url": "git://github.com/enricostara/telegram.link.git"
+    "url": "git://github.com/artmework/telegram.link.git"
   },
   "bugs": {
-    "url": "https://github.com/enricostara/telegram.link/issues"
+    "url": "https://github.com/artmework/telegram.link/issues"
   },
   "dependencies": {
     "get-flow": "latest",
     "get-log": "latest",
     "requirish": "latest",
-    "telegram-tl-node": "latest",
+    "telegram-tl-node": "https://github.com/ArtMeWork/telegram-tl-node/archive/master",
     "telegram-mt-node": "latest",
     "colors": "1.1.2",
     "es6-promise": "2.3.0"
