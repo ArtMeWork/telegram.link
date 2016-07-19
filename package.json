@@ -20,7 +20,7 @@
     "get-flow": "latest",
     "get-log": "latest",
     "requirish": "latest",
-    "telegram-tl-node": "https://github.com/ArtMeWork/telegram-tl-node/archive/master",
+    "telegram-tl-node": "https://github.com/ArtMeWork/telegram-tl-node/tarball/c3a66450a778306f69fb4a816ddfdaee55896215",
     "telegram-mt-node": "latest",
     "colors": "1.1.2",
     "es6-promise": "2.3.0"
